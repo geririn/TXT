@@ -1,0 +1,9 @@
+The 1st skill: Git bash,
+The 2nd skill: Git Hub,
+The 3rd skill: Postman,
+The 4th skill: DBeaver,
+The 5Th skill: Charles proxy",
+The 6th skill: Fiddler,
+The 7th skill: Java Script,
+The 8th skill: Python,
+The 9th skill: SQL
