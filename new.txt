@@ -1,0 +1,6 @@
+FirstName: Irina,
+LastName: Brovkina,
+MiddleName: Mikhailovna,
+Age: 26,
+Pets: -,
+Desired_salary: 160000.
