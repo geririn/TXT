@@ -1,0 +1,8 @@
+id: 1,
+summary: The Add button is inactive by default on Home page,
+steps to reproduce: 1.Open Home page, 2.Pay attention to the Add button,
+expected result: The Add button is active,
+actual result: The Add button is inactive,
+priority: High,
+severity: High,
+environment: prod.
